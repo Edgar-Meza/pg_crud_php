@@ -1,0 +1,24 @@
+.btn-agregar{
+  font-size: 25px;
+  cursor: pointer;
+  color: #FFFFFF;
+}
+.btn-agregar:hover{
+  color: green;
+}
+.btn-actualizar{
+  font-size: 25px;
+  cursor: pointer;
+}
+.btn-eliminar{
+  font-size: 25px;
+  cursor: pointer;
+}
+.barnav{
+  height: 50px;
+}
+.cabecera{
+  position: sticky;
+  top: 50px;
+  z-index: 1020;
+}

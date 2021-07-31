@@ -1,0 +1,6 @@
+{
+    "name": "app/h",
+    "description": "aplicacion en heroku",
+    "type": "php",
+    "require": {}
+}
